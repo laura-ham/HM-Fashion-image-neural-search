@@ -1,1 +1,3 @@
 opencv_python==4.5.5.62
+torchvision==0.11.2
+docarray==0.8.6
