@@ -1,4 +1,4 @@
 data
-images_256_256
-resize_image.py
+images_80_60
 *.zip
+.DS_Store
