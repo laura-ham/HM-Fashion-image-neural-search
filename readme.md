@@ -2,7 +2,7 @@
 
 This example shows how to do image similarity search using [DocArray](https://docarray.jina.ai/) and [Weaviate](https://weaviate.io/) as Document Store. 
 
-<a href = "https://www.youtube.com/watch?v=rBKvoIGihnY">Notebook Tutorial on YouTube!</a>
+<a href = "https://www.youtube.com/watch?v=rBKvoIGihnY">Notebook Tutorial on SeMI YouTube!</a>
 
 ## How to use the notebook
 
